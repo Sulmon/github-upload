@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\123\Desktop\AUDWS2020\.metadata\.plugins\org.eclipse.jdt.core
+1959598098.index
+1272891905.index
+951444982.index
